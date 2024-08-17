@@ -1,0 +1,28 @@
+
+.workoutdetailspage{
+    background-image: url('https://images.inc.com/uploaded_files/image/1920x1080/getty_901096798_200013332000928080_415454.jpg');
+    background-size: cover;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    color:black;
+    font-size: large;
+  
+}
+
+.workouts{
+    text-align: center;
+    padding-bottom: 220px;
+    border: 3px solid;
+    background-color: lightgrey;
+    text-align:left;
+    opacity: .80; 
+    width: 285px;
+    height: 580px; 
+    padding-top: 20px;
+    padding-left: 15px;
+
+}

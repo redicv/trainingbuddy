@@ -1,0 +1,28 @@
+
+.Signupbox{
+    background-image: url('https://hips.hearstapps.com/hmg-prod/images/mh-bodybuild-royalty-free-image-1576882445.jpg?crop=0.668xw:1.00xh;0.0748xw,0&resize=1200:*');
+    background-size: cover;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    
+  
+}
+
+.Signupform{
+
+    border:1px solid black;  /*add a border around the form */
+    /*padding is the distance between anpy html element and the border around it*/
+    padding: 30px;
+    background-color: rgb(242, 242, 247);
+    width: 400px; /*width*/
+    height: 80vh;
+  
+}
+
+h1{
+    text-align: center;
+}

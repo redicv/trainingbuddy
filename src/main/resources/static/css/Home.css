@@ -1,0 +1,28 @@
+.Homepage{
+    background-image: url('https://cdn.vectorstock.com/i/1000x1000/02/05/runner-background-vector-1040205.webp');
+    height: 100%;
+    background-size: cover;
+    /* padding-top: 370px; */
+   
+
+    /* padding-left: 40px; */
+ 
+}
+
+
+.title {
+    text-align: center;
+    justify-content: center;
+    color: tan;
+
+}
+
+h1 {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   padding-top: 600px;
+}
+
+h2{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ padding-bottom: 500px;
+}

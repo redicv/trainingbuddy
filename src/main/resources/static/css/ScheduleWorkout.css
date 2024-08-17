@@ -1,0 +1,22 @@
+.postworkout{ 
+    background-image: url('https://www.tigerfitness.com/cdn/shop/articles/bigstock-Sporty-Team-With-Kettlebells-A-379975234_800x800.jpg?v=1633109773');
+    height: 100vh;
+    height: 100vh;
+    background-size: cover;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.postbox{
+
+border:1px solid black;  /*add a border around the form */
+/*padding is the distance between anpy html element and the border around it*/
+padding: 20px;
+background-color: rgb(242, 242, 247);
+width: 400px; /*width*/
+
+
+}

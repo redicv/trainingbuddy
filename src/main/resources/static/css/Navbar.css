@@ -1,0 +1,13 @@
+.container-fluid{
+    height: 28px;
+    
+   
+}
+
+.d-flex{
+ height: 16px;
+ align-items: center;
+ display: flex;
+ padding-top: 17px;
+ padding-left: 10px;
+}

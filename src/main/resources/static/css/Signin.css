@@ -1,0 +1,19 @@
+.Signinform{
+    background-image: url('https://nypost.com/wp-content/uploads/sites/2/2024/01/start-strong-end-stronger-75637897.jpg?resize=1536,1024&quality=75&strip=all');
+    background-size: cover;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.Signinbox{
+
+    border:1px solid black;  /*add a border around the form */
+   /*padding is the distance between anpy html element and the border around it*/
+    padding: 30px;
+    background-color: rgb(242, 242, 247);
+    width: 400px; /*width*/
+}

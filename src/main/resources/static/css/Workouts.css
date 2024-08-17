@@ -1,0 +1,64 @@
+.workoutmain{
+    background-image: url('https://247wallst.com/wp-content/uploads/2018/06/crossfit.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    
+    text-align: center;
+    color: black;
+   }
+
+    /* .workoutmin { */
+      /* display: flex; */
+      /* justify-content: space-between; this will add equal space between each image */
+      /* overflow: hidden; */
+     /* justify-content: center; */
+   
+      /* width: 80px;
+      height: 40px; */
+    /* color: lightblue;  */
+    /* } */
+    .workoutmax{
+      color:black;
+      border: 2px;
+      margin: 2px;
+      padding-bottom: 40px;
+      text-align: center;
+      display: contents;
+      line-height: 3.714285714285714rem;
+     }
+
+     .workoutitems{
+      padding-left: 120px;
+      /* align-items: center; */
+      justify-content:center;
+
+     }
+
+    .post{
+      color:black;
+      /* border: 2px;
+      margin: 2px; */
+      padding-bottom: 70px;
+      text-align: center;
+      display:inline-flex;
+    }
+   
+    
+    /* .btn .btn-primary{
+      display: block;
+      padding-bottom: 40px;
+    }
+     */
+
+    .remove{
+     padding-right: 1480px;
+      
+    }
+  
+    .workoutdetails{
+      padding-left: 50px;
+      display: flex;
+     
+    }
+   
