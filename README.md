@@ -1,0 +1,1 @@
+TrainingBuddy is a Java/Spring JSP based application that allows users to create an account, login, post and delete workouts. Additionally, the application allows users to search for workout partnters. 
